@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "V15zuqkEeBx84HUPrF00iKdhenioEukrRWMXPTqN0yyaICFJjPm6nbf9cHg7koflgQOZ+VZZCvU3qVXcwjm7nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elias\\Documents\\c# ASP.NET\\BACKEND\\InternationalizationApi\\InternationalizationApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elias\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\elias\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
